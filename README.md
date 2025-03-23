@@ -3,7 +3,7 @@
 A real-time IoT-based smart farming solution that monitors environmental conditions and provides actionable insights for crop health. This project integrates sensors, cloud storage, and a Flask web application to deliver live data and intelligence to farmers in an easy-to-understand format.
 
 ---
-![Basic Smart Farm Project Visual](./Visuals/picture.jpg)
+![Basic Smart Farm Project Visual](./Visuals/project_visual.jpg)
 
 ## Project Overview
 
